@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+main {
+  max-width: 300px;
+}
+
+.about-me {
+  margin-bottom: 3rem;
+}
+
+.about-me img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.about-me h1 {
+  font-size: 2em;
+}
+
+.social-link {
+  background-color: #646cff;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 100px;
+  display: block;
+  margin: 1rem auto;
+}
+.social-link:hover {
+  background-color: #848aff;
+  color: white;
+}
+
+.footer {
+  margin-top: 5rem;
+}
